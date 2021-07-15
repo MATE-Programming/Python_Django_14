@@ -1,5 +1,5 @@
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_14.svg?raw=true)
-# Практическое задание на тему Формы'
+# Практическое задание на тему Формы
 
 Добавлять записи через панель администратора – не удобно.
         
